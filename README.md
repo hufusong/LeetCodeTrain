@@ -1,1 +1,1 @@
-# HUAWEI_OJ
+# LeetCode
